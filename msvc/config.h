@@ -139,6 +139,8 @@
 /* #undef HAVE___SREFILL */
 /* #undef HAVE___SRGET */
 /* #undef HAVE___UFLOW */
+#define HAVE_GETOPT_H 0
+#define HAVE_GETOPT_LONG 0
 #define LT_OBJDIR ""
 /* #undef NO_MINUS_C_MINUS_O */
 #define PACKAGE_BUGREPORT ""
